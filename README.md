@@ -1,5 +1,5 @@
 # Preview - ![Pizza Sales Dashboard](img1.png) ![Pizza Sales Dashboard](img2.png)
-## Live Demo - https://manitacin-my.sharepoint.com/:u:/g/personal/211114054_manit_ac_in/Ec-IAOHAdcJLlQfzoSIXTHQBnCIwc_MVfJQulAUGmei5-A?e=2luaCK 
+## Live Demo - https://manitacin-my.sharepoint.com/:u:/g/personal/2211301106_manit_ac_in/Ec-IAOHAdcJLlQfzoSIXTHQBnCIwc_MVfJQulAUGmei5-A?e=2luaCK 
               (Open this file in your PowerBI application)
 # Pizza Performance Metrics
 
